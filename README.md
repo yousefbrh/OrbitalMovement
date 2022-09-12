@@ -7,6 +7,8 @@ Options:
 - Can set rotation limit
 - Can set start position
 - Can set movement speed
+
 Requirements:
+
 - Lean
 - Odin Inspector
